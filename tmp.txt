@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-09-10 15:32:48",
+    "parameters": {
+      "Segment Count": 5.0,
+      "Object Width": 3.0,
+      "Twist Angle": 20.0,
+      "Twist Groove Depth": 1.0,
+      "Vertical Wave Frequency": 3.0,
+      "Vertical Wave Depth": 1.0
+    },
+    "object_type": "Vase"
+  },
+  {
+    "timestamp": "2025-09-10T15:37:22.063964",
+    "object_type": "Vase",
+    "parameters": {
+      "Segment Count": 5.0,
+      "Object Width": 3.0,
+      "Twist Angle": 20.0,
+      "Twist Groove Depth": 1.0,
+      "Vertical Wave Frequency": 3.0,
+      "Vertical Wave Depth": 1.0
+    }
+  }
+]

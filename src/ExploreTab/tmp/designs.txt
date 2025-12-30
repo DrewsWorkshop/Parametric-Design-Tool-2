@@ -1,0 +1,158 @@
+[
+  {
+    "Name": "A",
+    "object_type": "Vase",
+    "Rating": 1.0,
+    "parameters": {
+      "Segment Count": 4,
+      "Object Width": 2.5814059363996695,
+      "Twist Angle": 20.297993518720517,
+      "Twist Groove Depth": 2.517168575145963,
+      "Vertical Wave Frequency": 7.461250297191581,
+      "Vertical Wave Depth": 0.2596684864855643
+    }
+  },
+  {
+    "Name": "B",
+    "object_type": "Vase",
+    "Rating": -0.0,
+    "parameters": {
+      "Segment Count": 9,
+      "Object Width": 2.7035464398459936,
+      "Twist Angle": 42.2732166378682,
+      "Twist Groove Depth": 1.765708046479535,
+      "Vertical Wave Frequency": 1.7671389241047453,
+      "Vertical Wave Depth": 1.8163779074634536
+    }
+  },
+  {
+    "Name": "C",
+    "object_type": "Vase",
+    "Rating": 1.0,
+    "parameters": {
+      "Segment Count": 7,
+      "Object Width": 2.1072322824272938,
+      "Twist Angle": 14.143489556330124,
+      "Twist Groove Depth": 5.373784517545817,
+      "Vertical Wave Frequency": 13.06513066675134,
+      "Vertical Wave Depth": 2.096533933966983
+    }
+  },
+  {
+    "Name": "D",
+    "object_type": "Vase",
+    "Rating": 0.0,
+    "parameters": {
+      "Segment Count": 8,
+      "Object Width": 2.786902056121137,
+      "Twist Angle": 15.435705407021164,
+      "Twist Groove Depth": 1.0035421482166125,
+      "Vertical Wave Frequency": 2.685817005257871,
+      "Vertical Wave Depth": 1.3715505098215697
+    }
+  },
+  {
+    "Name": "E",
+    "object_type": "Vase",
+    "Rating": -0.0,
+    "parameters": {
+      "Segment Count": 6,
+      "Object Width": 2.8621789877853607,
+      "Twist Angle": 5.2363226412746116,
+      "Twist Groove Depth": 4.182208610745538,
+      "Vertical Wave Frequency": 0.17273444571062294,
+      "Vertical Wave Depth": 3.055817608936036
+    }
+  },
+  {
+    "Name": "F",
+    "object_type": "Vase",
+    "Rating": -1.0,
+    "parameters": {
+      "Segment Count": 4,
+      "Object Width": 2.46393708308732,
+      "Twist Angle": 28.05008015989194,
+      "Twist Groove Depth": 2.662174465844479,
+      "Vertical Wave Frequency": 10.758320306015767,
+      "Vertical Wave Depth": 2.713599149782653
+    }
+  },
+  {
+    "Name": "G",
+    "object_type": "Vase",
+    "Rating": -0.0,
+    "parameters": {
+      "Segment Count": 7,
+      "Object Width": 2.227126602614823,
+      "Twist Angle": 2.2669568537955316,
+      "Twist Groove Depth": 0.09146648612418191,
+      "Vertical Wave Frequency": 9.227625916479491,
+      "Vertical Wave Depth": 0.891005510343249
+    }
+  },
+  {
+    "Name": "H",
+    "object_type": "Vase",
+    "Rating": -1.0,
+    "parameters": {
+      "Segment Count": 5,
+      "Object Width": 2.25135329973405,
+      "Twist Angle": 40.89625667903754,
+      "Twist Groove Depth": 3.0939309995894733,
+      "Vertical Wave Frequency": 7.697425843702279,
+      "Vertical Wave Depth": 0.6087697861089102
+    }
+  },
+  {
+    "Name": "I",
+    "object_type": "Vase",
+    "Rating": 1.0,
+    "parameters": {
+      "Segment Count": 6,
+      "Object Width": 2.407663807707785,
+      "Twist Angle": 14.95297500006624,
+      "Twist Groove Depth": 6.750134718362493,
+      "Vertical Wave Frequency": 5.9111244013249635,
+      "Vertical Wave Depth": 3.420639144331687
+    }
+  },
+  {
+    "Name": "J",
+    "object_type": "Vase",
+    "Rating": -1.0,
+    "parameters": {
+      "Segment Count": 2,
+      "Object Width": 2.0777977777577865,
+      "Twist Angle": 26.00994936568251,
+      "Twist Groove Depth": 1.5944565777662196,
+      "Vertical Wave Frequency": 11.96624434726102,
+      "Vertical Wave Depth": 2.3071088451399726
+    }
+  },
+  {
+    "Name": "K",
+    "object_type": "Vase",
+    "Rating": -2.0,
+    "parameters": {
+      "Segment Count": 3,
+      "Object Width": 2.6492812335210414,
+      "Twist Angle": 35.2604857963804,
+      "Twist Groove Depth": 3.840137344754672,
+      "Vertical Wave Frequency": 4.1068749160589135,
+      "Vertical Wave Depth": 4.0012644665062
+    }
+  },
+  {
+    "Name": "L",
+    "object_type": "Vase",
+    "Rating": 2.0,
+    "parameters": {
+      "Segment Count": 3,
+      "Object Width": 2.926748996722356,
+      "Twist Angle": 10.669854352656662,
+      "Twist Groove Depth": 7.979976103075295,
+      "Vertical Wave Frequency": 14.70691007400195,
+      "Vertical Wave Depth": 2.411975823383828
+    }
+  }
+]

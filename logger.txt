@@ -1,0 +1,12 @@
+
+============================================================
+Training Run @ 2025-12-30 17:58:30
+Training samples: 12
+Kernel: 0.977**2 * RBF(length_scale=[0.568, 2, 0.219, 2, 1.69, 2]) + WhiteKernel(noise_level=1e-06)
+R² (training): 1.000000
+Coverage: 11/64 cells = 17%
+Grid Predictive Std Summary:
+  Mean   std: 0.371775
+  Median std: 0.320174
+  Min    std: 0.186397
+  Max    std: 0.600420

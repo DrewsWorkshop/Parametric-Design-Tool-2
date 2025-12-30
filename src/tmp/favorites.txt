@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2025-10-30T11:46:23.016940",
+    "object_type": "Vase",
+    "Rating": 5,
+    "parameters": {
+      "Segment Count": 9.0,
+      "Object Width": 2.5,
+      "Twist Angle": 20.0,
+      "Twist Groove Depth": 1.0,
+      "Vertical Wave Frequency": 3.0,
+      "Vertical Wave Depth": 1.0
+    }
+  },
+  {
+    "timestamp": "2025-10-30T11:46:37.637405",
+    "object_type": "Vase",
+    "Rating": 5,
+    "parameters": {
+      "Segment Count": 5.115344047546387,
+      "Object Width": 2.5,
+      "Twist Angle": 13.237649917602539,
+      "Twist Groove Depth": 5.760696887969971,
+      "Vertical Wave Frequency": 3.4437239170074463,
+      "Vertical Wave Depth": 1.0
+    }
+  }
+]

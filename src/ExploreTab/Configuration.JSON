@@ -1,0 +1,15 @@
+{
+  "Batch 1": {
+    "n_designs": 12,
+    "seed": null
+  },
+  "Batch 1 Tournament": {
+    "shuffle": true,
+    "seed": null
+  },
+  "Bayesian": {
+    "kernel": "RBF(length_scale=np.ones(6), length_scale_bounds=(1e-2, 2.0))",
+    "normalize_y": true,
+    "n_restarts_optimizer": 5
+  }
+}

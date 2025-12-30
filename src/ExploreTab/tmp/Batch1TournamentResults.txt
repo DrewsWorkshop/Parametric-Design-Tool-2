@@ -1,0 +1,90 @@
+[
+  {
+    "match_id": 1,
+    "a_index": 4,
+    "b_index": 5,
+    "winner_index": 4,
+    "winner_name": "E",
+    "round": 1
+  },
+  {
+    "match_id": 2,
+    "a_index": 10,
+    "b_index": 7,
+    "winner_index": 7,
+    "winner_name": "H",
+    "round": 1
+  },
+  {
+    "match_id": 3,
+    "a_index": 3,
+    "b_index": 9,
+    "winner_index": 3,
+    "winner_name": "D",
+    "round": 1
+  },
+  {
+    "match_id": 4,
+    "a_index": 6,
+    "b_index": 8,
+    "winner_index": 8,
+    "winner_name": "I",
+    "round": 1
+  },
+  {
+    "match_id": 5,
+    "a_index": 11,
+    "b_index": 0,
+    "winner_index": 11,
+    "winner_name": "L",
+    "round": 1
+  },
+  {
+    "match_id": 6,
+    "a_index": 1,
+    "b_index": 2,
+    "winner_index": 2,
+    "winner_name": "C",
+    "round": 1
+  },
+  {
+    "match_id": 1,
+    "a_index": 4,
+    "b_index": 7,
+    "winner_index": 4,
+    "winner_name": "E",
+    "round": 2
+  },
+  {
+    "match_id": 2,
+    "a_index": 3,
+    "b_index": 8,
+    "winner_index": 8,
+    "winner_name": "I",
+    "round": 2
+  },
+  {
+    "match_id": 3,
+    "a_index": 11,
+    "b_index": 2,
+    "winner_index": 11,
+    "winner_name": "L",
+    "round": 2
+  },
+  {
+    "match_id": 1,
+    "a_index": 4,
+    "b_index": 8,
+    "winner_index": 8,
+    "winner_name": "I",
+    "round": 3
+  },
+  {
+    "match_id": 1,
+    "a_index": 11,
+    "b_index": 8,
+    "winner_index": 11,
+    "winner_name": "L",
+    "round": 4
+  }
+]
